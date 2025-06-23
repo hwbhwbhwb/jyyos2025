@@ -6,7 +6,7 @@
 // compilers refuse to compile this code. For example, Apple
 // clang has -Werror=implicit-function-declaration by default.
 //
-// #include <stdio.h>
+#include <stdio.h>
 //
 // "#include" preprocessor directives is just a copy-paste.
 // You can do
